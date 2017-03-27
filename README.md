@@ -2,4 +2,4 @@
  Demo app with basic REST API
  # REST API
  List of basic routes:
- | Route | HTTP | Description |
+ Route | HTTP | Description
