@@ -1,6 +1,6 @@
- # My App Name
+ ## My App Name
  Demo app with basic REST API
- # REST API
+ ## REST API
  List of basic routes:
  
 Route | HTTP | Description
@@ -18,7 +18,7 @@ Route | HTTP | Description
 `/api/users/:id` | PUT | Update a user with new info
 `/api/users/:id` | PATCH | Update a user with spesific new info
 
-# Usage
+## Usage
 With only npm:
 
 > `npm install`
