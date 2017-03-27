@@ -11,3 +11,11 @@ Route|HTTP|Description
 /api/users|POST|Create a user
 /api/users/:id|DELETE|Delete a user
 /api/users/:id|PUT|Update a user
+
+# Usage
+With only npm:
+
+npm install
+nodemon npm start
+
+Access via localhost:3000
