@@ -16,6 +16,7 @@ Route|HTTP|Description
 With only npm:
 
 npm install
+
 nodemon npm start
 
-Access via localhost:3000
+**Access via localhost:3000**
